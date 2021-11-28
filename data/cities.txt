@@ -1,0 +1,7 @@
+Launceston
+Hobart
+Melbourne
+Brisbane
+Sydney
+Adelaide
+Perth
