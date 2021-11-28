@@ -12,11 +12,9 @@
 //this to turn off unnecessary warning by PHP
 error_reporting(E_ERROR | E_PARSE);
 
-$DOCUMENT_ROOT = $_SERVER['DOCUMENT_ROOT'];
-
 //declare file path
 //it's practical to break down into parts like this when scaling up
-$path = $DOCUMENT_ROOT.'/data/';
+$path = './data/';
 $filename = 'cities.txt';
 $file_location = $path.$filename;
 
